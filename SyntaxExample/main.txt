@@ -1,0 +1,7 @@
+#use std
+(uses preparse's std library)
+#define myvar cool string
+(defines a variable called myvar and gives it the value "cool string")
+note that any line that does not start with # is not executed
+#declare myothervar int
+creates a variable called myothervar and gives it the value 0
